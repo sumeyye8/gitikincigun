@@ -26,6 +26,8 @@ public class Day2GitGithub {
         Not: Yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commitlerimiz icin sadece git push kullaniriz.
 
         Not: git log --oneline --> Commitlerdeki(versiyonlarimdaki) durumu gosterir
+        
+        Not: Github ogrendim
      */
 
 
